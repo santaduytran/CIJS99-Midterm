@@ -1,0 +1,27 @@
+.card-image {
+  position: relative;
+}
+.card-image img {
+    filter: brightness(70%);
+}
+.card-title {
+  position: absolute;
+  bottom: 0;
+  color: #FFFFFF;
+  width: 100%;
+  text-align: center;
+  padding-bottom: 10px;
+}
+.card {
+    background-color: #192026;
+    border: none;
+    padding-top: 20px;
+}
+.card-text {
+    color: #FFFFFF;
+    text-align: center;
+}
+.card-img-top {
+    cursor: pointer;
+}
+

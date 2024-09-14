@@ -1,0 +1,21 @@
+.header {
+  padding: 15px 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.header h1 {
+  color: #ffffff;
+}
+.header p {
+  color: #868686;
+  font-size: 20px;
+}
+.form-control {
+  background-color: #374151;
+  width: 300px;
+  border-radius: 30px;
+}
+.col-auto input::placeholder {
+  color: #868686;
+}

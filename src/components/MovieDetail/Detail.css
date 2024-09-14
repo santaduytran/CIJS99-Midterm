@@ -1,0 +1,12 @@
+.modal-header h1{
+    color: red;
+}
+.modal-body img {
+    width: 13rem;
+    height: 24rem;
+    background-size: contain;
+}
+.modal-body h3 {
+    color: blue;
+    text-align: center;
+}

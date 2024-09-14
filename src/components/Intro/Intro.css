@@ -1,0 +1,30 @@
+.header-intro {
+  margin-top: 20px;
+}
+.header-intro h3 {
+  color: #ffffff;
+  padding-bottom: 10px;
+}
+.header-intro h5 {
+  color: #868686;
+  padding-bottom: 10px;
+}
+.image {
+  position: relative;
+}
+.img-content {
+  background-image: url(../img/weathering.jpg);
+  background-size: 90%;
+  background-repeat: no-repeat;
+  height: 550px;
+  filter: brightness(80%);
+}
+.image-content {
+  position: absolute;
+  bottom: 0;
+  color: #f1f1f1;
+  width: 600px;
+  padding: 20px 30px;
+  left: 0;
+  font-weight: 700;
+}
